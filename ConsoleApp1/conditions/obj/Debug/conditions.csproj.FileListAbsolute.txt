@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\bin\Debug\conditions.exe.config
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\bin\Debug\conditions.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\bin\Debug\conditions.pdb
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\obj\Debug\conditions.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\obj\Debug\conditions.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\obj\Debug\conditions.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\conditions\obj\Debug\conditions.pdb
