@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\bin\Debug\ArrayListDemo.exe.config
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\bin\Debug\ArrayListDemo.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\bin\Debug\ArrayListDemo.pdb
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\obj\Debug\ArrayListDemo.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\obj\Debug\ArrayListDemo.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\ArrayListDemo\obj\Debug\ArrayListDemo.pdb

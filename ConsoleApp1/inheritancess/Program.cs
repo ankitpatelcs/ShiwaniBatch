@@ -4,24 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace oops
+namespace inheritancess
 {
     class Employee
     {
         int id;
         string name;
-
-        //public Employee()   // default constructor
-        //{
-        //    id = -1;
-        //    name = "--";
-        //}
-        internal Employee(int id,string name)   // parametarized constructor
-        {
-            this.id = id;
-            this.name = name;
-        }
-
         internal void Getdata()
         {
             Console.WriteLine("Enter ID: ");
@@ -30,25 +18,35 @@ namespace oops
             name = Console.ReadLine();
         }
 
-        public void Showdata()
+        internal void Showdata()
         {
             Console.WriteLine("Employee ID: {0}", id);
             Console.WriteLine("Employee Name: {0}", name);
         }
-
-        ~Employee()
+    }
+    class Payroll : Employee
+    {
+        int salary;
+        internal void GetPayroll()
         {
+            Getdata();
+            Console.WriteLine("Enter Salary: ");
+            salary = Convert.ToInt32(Console.ReadLine());
+        }
 
+        public void ShowPayroll()
+        {
+            Showdata();
+            Console.WriteLine("Employee Salary: {0}", salary);
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Employee e = new Employee(12,"Shivani");    // declaring an object of Employee class
-            //e.Getdata();
-
-            e.Showdata();
+            Payroll p = new Payroll();
+            p.GetPayroll();
+            p.ShowPayroll();
 
             Console.Read();
         }

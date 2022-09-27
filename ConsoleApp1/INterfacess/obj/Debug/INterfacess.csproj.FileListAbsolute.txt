@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\bin\Debug\INterfacess.exe.config
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\bin\Debug\INterfacess.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\bin\Debug\INterfacess.pdb
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\obj\Debug\INterfacess.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\obj\Debug\INterfacess.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\obj\Debug\INterfacess.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\INterfacess\obj\Debug\INterfacess.pdb

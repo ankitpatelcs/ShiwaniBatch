@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\bin\Debug\inheritancess.exe.config
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\bin\Debug\inheritancess.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\bin\Debug\inheritancess.pdb
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\obj\Debug\inheritancess.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\obj\Debug\inheritancess.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\obj\Debug\inheritancess.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\inheritancess\obj\Debug\inheritancess.pdb
