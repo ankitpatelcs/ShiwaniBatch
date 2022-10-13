@@ -16,11 +16,11 @@ namespace oops
         //    id = -1;
         //    name = "--";
         //}
-        internal Employee(int id,string name)   // parametarized constructor
-        {
-            this.id = id;
-            this.name = name;
-        }
+        //internal Employee(int id,string name)   // parametarized constructor
+        //{
+        //    this.id = id;
+        //    this.name = name;
+        //}
 
         internal void Getdata()
         {
@@ -36,19 +36,27 @@ namespace oops
             Console.WriteLine("Employee Name: {0}", name);
         }
 
-        ~Employee()
-        {
+        //~Employee()
+        //{
 
-        }
+        //}
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Employee e = new Employee(12,"Shivani");    // declaring an object of Employee class
-            //e.Getdata();
-
-            e.Showdata();
+            //Employee e = new Employee(12,"Shivani");    // declaring an object of Employee class
+            Employee[] e = new Employee[3];
+            for (int i = 0; i < e.Length; i++)
+            {
+                e[i] = new Employee();
+                e[i].Getdata();
+            }
+            for (int i = 0; i < e.Length; i++)
+            {
+                e[i].Showdata();
+            }
+            
 
             Console.Read();
         }

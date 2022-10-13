@@ -1,0 +1,7 @@
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\bin\Debug\stringArray.exe.config
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\bin\Debug\stringArray.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\bin\Debug\stringArray.pdb
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\obj\Debug\stringArray.csproj.AssemblyReference.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\obj\Debug\stringArray.csproj.CoreCompileInputs.cache
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\obj\Debug\stringArray.exe
+C:\Ankit Patel\Lectures\ShiwaniBatch\ConsoleApp1\stringArray\obj\Debug\stringArray.pdb
